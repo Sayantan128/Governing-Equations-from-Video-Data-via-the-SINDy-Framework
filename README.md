@@ -1,0 +1,1 @@
+# Governing-Equations-from-Video-Data-via-the-SINDy-Framework
